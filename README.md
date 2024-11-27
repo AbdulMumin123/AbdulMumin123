@@ -3,7 +3,7 @@
 
 <b>👨‍💻 Cybersecurity Projects <b>
 - <b>SIEM Integration for Honeypot-based Threat Analysis (Microsoft Azure)</b>
-  - [SIEM Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Project](https://github.com/AbdulMumin123/SIEMHoney-Pot)
 - <b>Vulnerability Analysis and Mitigation (Nessus)</b>
   - [Vulnerability Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>AWS IAM Role Based Access and Security Policy</b>
