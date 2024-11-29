@@ -11,7 +11,7 @@
  
 <b>☁️ Cloud Projects <b>
 - <b>Wordpress Development (AWS)</b>
-  - [Wordpress Project](https://github.com/AbdulMumin123/SIEMHoney-Pot)
+  - [Wordpress Project](https://github.com/AbdulMumin123/WordPress)
 - <b>Data Managment and Visualization (AWS)</b>
   - [Data Visualization Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
