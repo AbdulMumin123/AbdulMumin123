@@ -6,14 +6,11 @@
   - [SIEM Project](https://github.com/AbdulMumin123/SIEMHoney-Pot)
 - <b>Vulnerability Analysis and Mitigation (Nessus)</b>
   - [Vulnerability Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>AWS IAM Role Based Access and Security Policy</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
  
 <b>☁️ Cloud Projects <b>
 - <b>Wordpress Development (AWS)</b>
   - [Wordpress Project](https://github.com/AbdulMumin123/WordPress)
-- <b>Data Managment and Visualization (AWS)</b>
-  - [Data Visualization Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+
 
 <h2>📝 Certifications</h2>
 
