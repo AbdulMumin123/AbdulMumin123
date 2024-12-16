@@ -5,7 +5,7 @@
 - <b>SIEM Integration for Honeypot-based Threat Analysis (Microsoft Azure)</b>
   - [SIEM Project](https://github.com/AbdulMumin123/SIEMHoney-Pot)
 - <b>Vulnerability Analysis and Mitigation (Nessus)</b>
-  - [Vulnerability Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Vulnerability Project](https://github.com/AbdulMumin123/VulnerabilityAnalysis/blob/main/README.md)
  
 <b>☁️ Cloud Projects <b>
 - <b>Wordpress Development (AWS)</b>
