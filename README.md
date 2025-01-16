@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdulmajid Mumin! <br/> <a href="https://www.linkedin.com/in/abdulmajidmumin/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Abdulmajid Mumin! <br/> <a href="https://www.linkedin.com/in/abdulmajidmumin/">IT Professional</a></h1>
 
 
 <b>👨‍💻 Cybersecurity Projects <b>
